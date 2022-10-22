@@ -1,0 +1,25 @@
+.astronomy_container {
+  max-width: 960px;
+  margin: 0 auto;
+  margin-top: 30px;
+}
+
+.astronomy_container h5 {
+  margin-bottom: 0.5rem;
+  font-family: inherit;
+  font-weight: 500;
+  line-height: 1.1;
+  color: inherit;
+  font-size: 1.25rem;
+}
+
+.astronomy_container p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+.astronomy_container img {
+  width: 100%;
+  vertical-align: middle;
+  border: 0;
+}
