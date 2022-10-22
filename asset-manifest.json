@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/nasaTask/static/css/main.ebc2f80b.css",
+    "main.js": "/nasaTask/static/js/main.838f11d4.js",
+    "static/js/787.37980ae4.chunk.js": "/nasaTask/static/js/787.37980ae4.chunk.js",
+    "static/media/Solar-System.jpg": "/nasaTask/static/media/Solar-System.a7831589bdcf11af387b.jpg",
+    "index.html": "/nasaTask/index.html",
+    "main.ebc2f80b.css.map": "/nasaTask/static/css/main.ebc2f80b.css.map",
+    "main.838f11d4.js.map": "/nasaTask/static/js/main.838f11d4.js.map",
+    "787.37980ae4.chunk.js.map": "/nasaTask/static/js/787.37980ae4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebc2f80b.css",
+    "static/js/main.838f11d4.js"
+  ]
+}
